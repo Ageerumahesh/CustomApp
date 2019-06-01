@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="my custom table" max_length="40" name="x_358340_my_first_my_custom_table" type="collection"/>
+</database>
